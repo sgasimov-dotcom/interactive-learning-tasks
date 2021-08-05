@@ -1,4 +1,4 @@
-Ticket-1
+**Ticket-1
 Note: all tasks are to be performed on bastion host
 
 Prerequisites:
