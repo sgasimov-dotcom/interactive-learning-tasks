@@ -1,8 +1,6 @@
 # interactive-learning-tasks
 
 
-
-````````````
 IAM TIcket 1
 Note: all tasks are to be performed on bastion host
 
@@ -29,8 +27,7 @@ Attach IAM user bob to IAM Group sysusers
 
 To check run:
 On VS Code
-bash -c "$(curl link )"
-Send it to Slack channel.
-Added by farrukh90
+bash -c "$(curl https://bucket-to-check-terraform-tasks.s3.amazonaws.com/Terraform/scripts/shared_scripts/terraform_menu.sh)"
 
-````````````
+
+
