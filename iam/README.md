@@ -34,4 +34,8 @@ On VS Code
 ``````````
 Link to repo
 
+<<<<<<< HEAD
 https://github.com/Evolve-Cyber-Organization/Terraform/projects/1
+=======
+https://github.com/Evolve-Cyber-Organization/Terraform/projects/1
+>>>>>>> e705a05501449144631b540e0b51386e55d3032b
