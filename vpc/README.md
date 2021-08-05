@@ -1,5 +1,5 @@
 **Ticket-1
-Note: all tasks are to be performed on bastion host
+Note: all tasks are to be performed on bastion host**
 
 Prerequisites:
 Create or use a repo "interactive-learning-tasks" with the following files:
