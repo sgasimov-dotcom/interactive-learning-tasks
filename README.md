@@ -6,7 +6,7 @@ Note: all tasks are to be performed on bastion host
 
 Prerequisites:
 Create or use a repo "interactive-learning-tasks" with the following files:
-
+```````
 README.md
 .gitignore for Terraform
 Clone the repo to your home directory.
@@ -29,5 +29,5 @@ To check run:
 On VS Code
 bash -c "$(curl https://bucket-to-check-terraform-tasks.s3.amazonaws.com/Terraform/scripts/shared_scripts/terraform_menu.sh)"
 
-
+``````````
 
